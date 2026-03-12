@@ -12,5 +12,4 @@ This project was based on a Frontend Mentor challenge, and I followed the provid
 ### Resources
 
 W3schools, MDN, W3docs,
-
 ![Image Screenshot](./blog.png)
